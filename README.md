@@ -10,6 +10,13 @@
 - Passionate about helping others develop their skills to achieve shared success.
 - Outdoors enthusiast who values continuous growth, exploration, and expanding horizons both professionally and personally.
 
+## Working on the following technical skills:
+- Excel (formulas, pivot tables, data analysis, macros)
+- SQL (queries, data extraction and visualization)
+- Python (data handling, cleaning, visualization, ML, statistics and desicion making)
+- Microsoft Office Suite Databases
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
