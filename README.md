@@ -1,7 +1,7 @@
 ## Hi there, I'm Kenneth Toral 👋
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQH6OHcrG_2Oqg/profile-displaybackgroundimage-shrink_350_1400/B4EZvC6gcmIwAc-/0/1768501680134?e=1770249600&v=beta&t=vBBS1-4mSkR4j9wGNrWx7rdHNqZD8YIUGbZR1CaaEAQ">
 
-## About me
+## ✍🏻 About me
 
 - Data Analyst on the making.
 - Bilingual professional (Spanish–English).
@@ -10,7 +10,7 @@
 - Passionate about helping others develop their skills to achieve shared success.
 - Outdoors enthusiast who values continuous growth, exploration, and expanding horizons both professionally and personally.
 
-## Working on the following technical skills:
+## ⚙️ Working on the following technical skills:
 - Excel (formulas, pivot tables, data analysis, macros)
 - SQL (queries, data extraction and visualization)
 - Python (data handling, cleaning, visualization, ML, statistics and desicion making)
